@@ -28,16 +28,12 @@
 
 1. Use this repository as template
 
-   **Disclosure:** by using this repository as a template, there will be an attribution on your repository.
-
-   I'll appreciate if you do, so this template can be known by others too 😄
-
    ![Use as template](https://user-images.githubusercontent.com/55318172/129183039-1a61e68d-dd90-4548-9489-7b3ccbb35810.png)
 
-2. Using `create-next-app`
+2. Using `degit`
 
    ```bash
-   npx create-next-app -e https://github.com/dionannd/ts-nextjs-tailwind-starter project-name
+   npx degit https://github.com/dionannd/ts-nextjs-tailwind-starter YOUR_PROJECT_NAME
    ```
 
 3. Deploy to Vercel
