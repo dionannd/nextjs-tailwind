@@ -83,7 +83,7 @@ export default function ComponentsPage() {
                       </option>
                     ))}
                   </select>
-                  <ButtonLink href='https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/blob/main/src/styles/colors.css'>
+                  <ButtonLink href='https://github.com/dionannd/ts-nextjs-tailwind-starter/blob/main/src/styles/colors.css'>
                     Check list of colors
                   </ButtonLink>
                 </div>
@@ -128,7 +128,7 @@ export default function ComponentsPage() {
                 </p>
                 <div className='space-x-2'>
                   <UnstyledLink href='/'>Internal Links</UnstyledLink>
-                  <UnstyledLink href='https://theodorusclarence.com'>
+                  <UnstyledLink href='https://dion-component-starter.vercel.app'>
                     Outside Links
                   </UnstyledLink>
                 </div>
@@ -141,7 +141,7 @@ export default function ComponentsPage() {
                 </p>
                 <div className='space-x-2'>
                   <PrimaryLink href='/'>Internal Links</PrimaryLink>
-                  <PrimaryLink href='https://theodorusclarence.com'>
+                  <PrimaryLink href='https://dion-component-starter.vercel.app'>
                     Outside Links
                   </PrimaryLink>
                 </div>
@@ -154,7 +154,7 @@ export default function ComponentsPage() {
                 </p>
                 <div className='space-x-2'>
                   <UnderlineLink href='/'>Internal Links</UnderlineLink>
-                  <UnderlineLink href='https://theodorusclarence.com'>
+                  <UnderlineLink href='https://dion-component-starter.vercel.app'>
                     Outside Links
                   </UnderlineLink>
                 </div>
@@ -195,33 +195,33 @@ export default function ComponentsPage() {
                 <div className='flex flex-wrap gap-2'>
                   <ButtonLink
                     variant='primary'
-                    href='https://theodorusclarence.com'
+                    href='https://dion-component-starter.vercel.app'
                   >
                     Primary Variant
                   </ButtonLink>
                   <ButtonLink
                     variant='outline'
                     isDarkBg={mode === 'dark'}
-                    href='https://theodorusclarence.com'
+                    href='https://dion-component-starter.vercel.app'
                   >
                     Outline Variant
                   </ButtonLink>
                   <ButtonLink
                     variant='ghost'
                     isDarkBg={mode === 'dark'}
-                    href='https://theodorusclarence.com'
+                    href='https://dion-component-starter.vercel.app'
                   >
                     Ghost Variant
                   </ButtonLink>
                   <ButtonLink
                     variant='dark'
-                    href='https://theodorusclarence.com'
+                    href='https://dion-component-starter.vercel.app'
                   >
                     Dark Variant
                   </ButtonLink>
                   <ButtonLink
                     variant='light'
-                    href='https://theodorusclarence.com'
+                    href='https://dion-component-starter.vercel.app'
                   >
                     Light Variant
                   </ButtonLink>
