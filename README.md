@@ -2,7 +2,6 @@
   <h1>ts-nextjs-tailwind-starter</h1>
   <p>Next.js + Tailwind CSS + TypeScript starter packed.</p>
   
-  
   [![CodeFactor](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/badge/main)](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/overview/main)
   [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=dionannd_ts-nextjs-tailwind-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=dionannd_ts-nextjs-tailwind-starter)
   [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=dionannd_ts-nextjs-tailwind-starter&metric=bugs)](https://sonarcloud.io/dashboard?id=dionannd_ts-nextjs-tailwind-starter)
