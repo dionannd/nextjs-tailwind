@@ -2,6 +2,7 @@
   <h1>ts-nextjs-tailwind-starter</h1>
   <p>Next.js + Tailwind CSS + TypeScript starter packed.</p>
   
+
   [![CodeFactor](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/badge/main)](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/overview/main)
   [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=dionannd_ts-nextjs-tailwind-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=dionannd_ts-nextjs-tailwind-starter)
   [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=dionannd_ts-nextjs-tailwind-starter&metric=bugs)](https://sonarcloud.io/dashboard?id=dionannd_ts-nextjs-tailwind-starter)
@@ -10,16 +11,16 @@
 
 ## Features
 
-- Next.js 12
-- React 18
-- TypeScript
-- Tailwind CSS 3 — Configured with CSS Variables to extend the **primary** color
-- Pre-built Components — Components that will **automatically adapt** with your brand color
-- Husky & Lint Staged — Run scripts on your staged files before they are committed
-- Conventional Commit Lint — Make sure you & your teammates follow conventional commit
-- Automatic Branch and Issue Autolink — Branch will be automatically created on issue **assign**, and auto linked on PR
-- Default Open Graph — Awesome open graph generated using [og](https://github.com/dionannd/og), fork it and deploy!
-- Site Map — Automatically generate sitemap.xml
+- Next.js 12.
+- React 18.
+- TypeScript.
+- Tailwind CSS 3 — Configured with CSS Variables to extend the **primary** color.
+- Pre-built Components — Components that will **automatically adapt** with your brand color.
+- Husky & Lint Staged — Run scripts on your staged files before they are committed.
+- Conventional Commit Lint — Make sure you & your teammates follow conventional commit.
+- Automatic Branch and Issue Autolink — Branch will be automatically created on issue **assign**, and auto linked on PR.
+- Default Open Graph — Awesome open graph generated using [og](https://github.com/dionannd/og), fork it and deploy!.
+- Site Map — Automatically generate sitemap.xml.
 
 ## Getting Started
 
