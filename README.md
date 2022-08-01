@@ -24,19 +24,15 @@
 
 ## Getting Started
 
-### 1. Clone this template using one of the three ways:
+### 1. Clone this template using one of the 2 ways:
 
-1. Use this repository as template
-
-   ![Use as template](https://user-images.githubusercontent.com/55318172/129183039-1a61e68d-dd90-4548-9489-7b3ccbb35810.png)
-
-2. Using `degit`
+1. Using `degit`
 
    ```bash
    npx degit dionannd/ts-nextjs-tailwind-starter YOUR_PROJECT_NAME
    ```
 
-3. Deploy to Vercel
+2. Deploy to Vercel
 
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fdionannd%2Fts-nextjs-tailwind-starter)
 
