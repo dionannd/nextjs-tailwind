@@ -1,6 +1,6 @@
 <div align="center">
   <h1>ts-nextjs-tailwind-starter</h1>
-  <p>Next.js + Tailwind CSS + TypeScript starter packed.</p>
+  <p>Next.js + Tailwind CSS + TypeScript starter packed</p>
   
 
   [![CodeFactor](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/badge/main)](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/overview/main)
