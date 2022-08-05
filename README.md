@@ -11,9 +11,9 @@
 
 ## Features
 
-- Next.js 12.
-- React 18.
-- TypeScript.
+- Next.js 12
+- React 18
+- TypeScript
 - Tailwind CSS 3 — Configured with CSS Variables to extend the **primary** color.
 - Pre-built Components — Components that will **automatically adapt** with your brand color.
 - Husky & Lint Staged — Run scripts on your staged files before they are committed.
