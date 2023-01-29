@@ -1,12 +1,12 @@
 <div align="center">
   <h1>ts-nextjs-tailwind-starter</h1>
   <p>Next.js + Tailwind CSS + TypeScript starter packed</p>
-  
 
-  [![CodeFactor](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/badge/main)](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/overview/main)
-  [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=dionannd_ts-nextjs-tailwind-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=dionannd_ts-nextjs-tailwind-starter)
-  [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=dionannd_ts-nextjs-tailwind-starter&metric=bugs)](https://sonarcloud.io/dashboard?id=dionannd_ts-nextjs-tailwind-starter)
-  [![Depfu](https://badges.depfu.com/badges/b29dfdf091426d02dcee172279403d2e/overview.svg)](https://depfu.com/github/dionannd/ts-nextjs-tailwind-starter?project_id=36174)
+[![CodeFactor](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/badge/main)](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/overview/main)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=dionannd_ts-nextjs-tailwind-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=dionannd_ts-nextjs-tailwind-starter)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=dionannd_ts-nextjs-tailwind-starter&metric=bugs)](https://sonarcloud.io/dashboard?id=dionannd_ts-nextjs-tailwind-starter)
+[![Depfu](https://badges.depfu.com/badges/b29dfdf091426d02dcee172279403d2e/overview.svg)](https://depfu.com/github/dionannd/ts-nextjs-tailwind-starter?project_id=36174)
+
 </div>
 
 ## Features
