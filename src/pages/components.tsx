@@ -13,7 +13,7 @@ import NextImage from '@/components/NextImage';
 import Seo from '@/components/Seo';
 import Skeleton from '@/components/Skeleton';
 
-type Color = typeof colorList[number];
+type Color = (typeof colorList)[number];
 
 export default function ComponentsPage() {
   const [mode, setMode] = React.useState<'dark' | 'light'>('light');
@@ -30,7 +30,6 @@ export default function ComponentsPage() {
         templateTitle='Components'
         description='Pre-built components with awesome default'
       />
-
       <main>
         <section
           className={clsx(mode === 'dark' ? 'bg-dark' : 'bg-gray-50', color)}
