@@ -1,6 +1,6 @@
 {
-  "name": "ts-nextjs-tailwind-starter",
-  "version": "0.1.0",
+  "name": "nextjs-tailwind",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "clsx": "^1.2.1",
-    "next": "^12.3.1",
+    "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
@@ -35,9 +35,9 @@
     "@types/react": "^18.0.21",
     "@typescript-eslint/eslint-plugin": "^5.39.0",
     "@typescript-eslint/parser": "^5.39.0",
-    "eslint": "^8.32.0",
     "autoprefixer": "^10.4.13",
-    "eslint-config-next": "^12.3.1",
+    "eslint": "^8.32.0",
+    "eslint-config-next": "^13.1.6",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "eslint-plugin-unused-imports": "^2.0.0",
