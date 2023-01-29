@@ -24,17 +24,11 @@
 
 ## Getting Started
 
-### 1. Clone this template using one of the 2 ways:
+### 1. Create Next.js app for your project
 
-1. Using `degit`
-
-   ```bash
-   npx degit dionannd/ts-nextjs-tailwind-starter YOUR_PROJECT_NAME
-   ```
-
-2. Deploy to Vercel
-
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fdionannd%2Fts-nextjs-tailwind-starter)
+```shell
+npx create-next-app --example https://github.com/dionannd/nextjs-tailwind.git
+```
 
 ### 2. Install dependencies
 
