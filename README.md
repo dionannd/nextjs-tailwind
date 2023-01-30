@@ -1,17 +1,15 @@
-<div align="center">
-  <h1>ts-nextjs-tailwind-starter</h1>
-  <p>Next.js + Tailwind CSS + TypeScript starter packed</p>
+# Next.js + Tailwind CSS
 
-[![CodeFactor](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/badge/main)](https://www.codefactor.io/repository/github/dionannd/ts-nextjs-tailwind-starter/overview/main)
+Next.js + Tailwind CSS + TypeScript Starter Package
+
+[![CodeFactor](https://www.codefactor.io/repository/github/dionannd/nextjs-tailwind/badge)](https://www.codefactor.io/repository/github/dionannd/nextjs-tailwind)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=dionannd_ts-nextjs-tailwind-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=dionannd_ts-nextjs-tailwind-starter)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=dionannd_ts-nextjs-tailwind-starter&metric=bugs)](https://sonarcloud.io/dashboard?id=dionannd_ts-nextjs-tailwind-starter)
 [![Depfu](https://badges.depfu.com/badges/b29dfdf091426d02dcee172279403d2e/overview.svg)](https://depfu.com/github/dionannd/ts-nextjs-tailwind-starter?project_id=36174)
 
-</div>
-
 ## Features
 
-- Next.js 12
+- Next.js 13
 - React 18
 - TypeScript
 - Tailwind CSS 3 — Configured with CSS Variables to extend the **primary** color.
@@ -27,28 +25,24 @@
 ### 1. Create Next.js app for your project
 
 ```shell
-npx create-next-app --example https://github.com/dionannd/nextjs-tailwind.git
+npx create-next-app YOUR_PROJECT_NAME -e "https://github.com/dionannd/nextjs-tailwind"
 ```
 
-### 2. Install dependencies
-
-It is encouraged to use **yarn** so the husky hooks can work properly.
-
-```bash
-yarn install
-```
-
-### 3. Run the development server
+### 2. Run the development server
 
 You can start the server using this command:
 
 ```bash
 yarn dev
+
+# or
+
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You can start editing the page by modifying `src/pages/index.tsx`.
 
-### 4. Change defaults
+### 3. Change defaults
 
 There are some things you need to change including title, urls, favicons, etc.
 
@@ -56,6 +50,6 @@ Find all comments with !STARTERCONF, then follow the guide.
 
 Don't forget to change the package name in package.json.
 
-### 5. Commit Message Convention
+### 4. Commit Message Convention
 
 This starter is using [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), it is mandatory to use it to commit changes.
